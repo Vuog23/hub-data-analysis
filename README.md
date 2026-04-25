@@ -8,7 +8,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 > A collection of student data analysis projects from **HUB (Trường Đại học Ngân hàng TP. Hồ Chí Minh)**, covering Vietnamese stock market analysis, HR/salary modeling, global retail market insights, and survey-based behavioral research — all powered by Python and machine learning.
 
